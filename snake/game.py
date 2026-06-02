@@ -48,12 +48,12 @@ class GameConf:
 
         # Color
         self.color_bg = "#000000"
-        self.color_txt = "#F5F5F5"
+        self.color_txt = "#F5F5F7"
         self.color_line = "#424242"
-        self.color_wall = "#F5F5F5"
-        self.color_food = "#FFF59D"
-        self.color_head = "#F5F5F5"
-        self.color_body = "#F5F5F5"
+        self.color_wall = "#F5F5F6"
+        self.color_food = "#FFF595"
+        self.color_head = "#F5F5F4"
+        self.color_body = "#F5F5F4"
 
         # Initial snake
         self.init_direc = Direc.RIGHT
