@@ -1,6 +1,5 @@
 import errno
 import os
-import traceback
 from enum import Enum, unique
 
 from snake.base import Direc, Map, PointType, Pos, Snake
